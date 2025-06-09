@@ -55,6 +55,40 @@ A scalable and resilient background job scheduling and execution system built wi
 | DELETE | `/api/v1/jobs/{jobId}`            | Cancel a job                    |
 
 ---
+## 📬 API Examples (via Postman)
+
+### Register User
+![Register User](images/POSTMAN-Register.png)
+### Login User
+![Login User](images/POSTMAN-Login.png)
+
+### Submit Job Request
+![Submit Job](images/POSTMAN-submit.png)
+
+### Get all Jobs
+![Get all jobs](images/POSTMAN-jobs.png)
+
+### Get specific job details
+![Get specific job](images/POSTMAN-specificJobs.png)
+
+### Get Job Status
+![Get Status](images/POSTMAN-status.png)
+
+### Reschudle Job
+![Reschudle Job](images/POSTMAN-cancel.png)
+
+### Cancel Job
+![Cancel Job](images/POSTMAN_CANCEL.png)
+
+![MySQL Cancel Job](images/MYSQL-cancel.png)
+
+---
+
+## 📌 UML Diagram
+
+![UML Diagram](images/UML-diagram.png)
+
+---
 ## 🤝 Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss.
 
