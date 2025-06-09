@@ -74,7 +74,7 @@ A scalable and resilient background job scheduling and execution system built wi
 ### Get Job Status
 ![Get Status](images/POSTMAN-status.png)
 
-### Reschudle Job
+### Reschedule Job
 ![Reschudle Job](images/POSTMAN-cancel.png)
 
 ### Cancel Job
